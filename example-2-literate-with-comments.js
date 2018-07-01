@@ -1,8 +1,5 @@
 // # Compute the largest and second largest values from a list of numbers.
 //
-// This code example is written in a literate programming style
-// and intentionally uses terse names.
-//
 // let m be the smallest possible number.
 // let c be a function that computes the two greatest numbers.
 // let l be the list of numbers.

@@ -1,0 +1,32 @@
+{
+  "name": "compute-two-greatest-values",
+  "description": "Code examples in 3 programming styles",
+  "version": "1.0.0",
+  "main": "example-1-self-documenting-code.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "example-2-docs": "docco example-2-literate-with-comments.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermoresi/compute-two-greatest-values.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermoresi/compute-two-greatest-values/issues"
+  },
+  "homepage": "https://github.com/petermoresi/compute-two-greatest-values#readme",
+  "keywords": [
+    "literate",
+    "programming"
+  ],
+  "devDependencies": {
+    "buble": "^0.19.3",
+    "uglify-js": "^3.4.2"
+  },
+  "dependencies": {}
+}
